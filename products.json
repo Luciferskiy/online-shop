@@ -26,5 +26,12 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id" : "5",
+        "title" : "Sylvanas",
+        "image" : "sylvanas.jpg",
+        "description" : "Sylvana's sticker",
+        "price" : 59.99
     }
 ]
